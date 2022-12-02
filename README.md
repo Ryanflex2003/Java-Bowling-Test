@@ -26,5 +26,10 @@ This is a gradle based java application.
 * build: `./gradlew assemble`
 * run tests: `./gradlew test` or use the IDE
 
+# Example Score Sheet
+<div align="center">
+    <img src="assets/bowling-score-sheet.svg" height="100" />
+</div>
+
 # Resources
 This kata was inspired by a similar one written by [Brain Franks](https://github.com/FranksBrain/BowlingKata/blob/master/README.md)
